@@ -1,1 +1,2 @@
 activity-day:20774 claimed firecrawl/firecrawl ec06d7d0f8dc
+activity-day:20774 done firecrawl/firecrawl eb6841c6f77a
